@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Sleepy
+//  Test
 //
 //  Created by Prashant Sinha on 18/01/15.
 //  Copyright (c) 2015 Prashant Sinha. All rights reserved.
@@ -16,7 +16,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
-        println("Hi")
+        println("Test")
         return true
     }
 
